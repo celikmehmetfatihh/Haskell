@@ -1,10 +1,4 @@
--- Mehmet Fatih Çelik – 2385268
--- I read and accept the submission rules and the extra rules specified in each question. This is my own work that is done by myself only.
-
---Hocam I really struggled with this assignment. I gave so many hours and still I have errors in my code. For me, all the lines that I wrote is logical, but I cannot
---solve the syntax error. I tried to explain every function's logic, and my thinking logic. I really gave so many hours, I would really appreciate if you give points
---the way I thought and my struggle because if you read the comments I made, I am sure you would understand what I tried to do. Thank you in advance.
-
+-- Mehmet Fatih Çelik
 
 
 --I used Maybe Int because the person could be not dead. So while adding in familytree function, I used Just deathYear which can be
